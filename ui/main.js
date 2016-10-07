@@ -1,6 +1,6 @@
 console.log('Loaded!');
 var element = document.getElementById('main-text');
-element.innerHTML = 'New Value';
+element.innerHTML = 'Manojkumar.T';
 var img = document.getElementById('madi');
 var marginLeft=0;
 function moveRight(){
