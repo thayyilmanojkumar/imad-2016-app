@@ -11,7 +11,7 @@ btn.onclick=function (){
            }
        }
    };
-   request.open('GET','http://http://thayyilmanojkumar.imad.hasura-app.io/counter',true);
+   request.open('GET','http://thayyilmanojkumar.imad.hasura-app.io/counter',true);
    request.send(null);
     
 };
